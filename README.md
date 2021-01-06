@@ -1,2 +1,2 @@
 # find-closest-meteor
-Find closest Meteor to my location
+Project that uses python to find closest Meteor to my location
