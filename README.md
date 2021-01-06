@@ -5,4 +5,9 @@ Project that uses python to find closest Meteor to my location
 
 This prject requires Python 3 and the requests package. 
 
-`python find_meteors.py`
+First install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
